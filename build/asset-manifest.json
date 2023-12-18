@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ad0845d.css",
+    "main.js": "/static/js/main.149eea74.js",
+    "static/js/787.e0f66cc8.chunk.js": "/static/js/787.e0f66cc8.chunk.js",
+    "static/media/quadra-blue.png": "/static/media/quadra-blue.d53f8a10861ea34fe1cc.png",
+    "static/media/login-admin-panel.jpg": "/static/media/login-admin-panel.87513efff7a755d38495.jpg",
+    "index.html": "/index.html",
+    "main.5ad0845d.css.map": "/static/css/main.5ad0845d.css.map",
+    "main.149eea74.js.map": "/static/js/main.149eea74.js.map",
+    "787.e0f66cc8.chunk.js.map": "/static/js/787.e0f66cc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad0845d.css",
+    "static/js/main.149eea74.js"
+  ]
+}
